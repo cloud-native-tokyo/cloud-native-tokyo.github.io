@@ -22,8 +22,8 @@ plugins:
 # Site settings
 url: 'https://cloud-native-tokyo.github.io'
 baseurl: '/'
-title: 'My website'
-description: 'This is my new website'
+title: 'Cloud Native Tokyo'
+description: 'This is cloud native tokyo'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
